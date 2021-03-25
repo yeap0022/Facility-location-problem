@@ -15,7 +15,7 @@ from ortools.linear_solver import pywraplp
 # tested with Gurobi v9.0.0 and Python 3.7.0
 
 #%% Parameter initialization
-file = open("./data/fl_25_2.txt")
+file = open("./data/problem_1.txt")
 input_data = file.read()
 # print(input_data)
 file.close()
