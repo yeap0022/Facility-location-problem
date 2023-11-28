@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug  2 15:18:48 2020
 
 @author: yeapym
 """
